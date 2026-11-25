@@ -2,6 +2,8 @@
 
 **Your Telegram bot answers customer questions instantly, only from your own Q&A list.** No made-up answers, no AI key needed.
 
+**👉 Get the ready-made template ($29): https://contra.com/products/h3HQhFgq-telegram-faq-bot-for-n8n-answers-only-from-your-qanda**
+
 ![n8n](https://img.shields.io/badge/n8n-1.x%20%7C%202.x-ea4b71) ![tested](https://img.shields.io/badge/live--tested-Telegram-229ED9)
 
 ![Live demo: real replies from the test bot](demo-live-telegram-chat.png)
@@ -25,7 +27,7 @@
 Not run live: n8n's own webhook activation (it needs your n8n on public HTTPS; standard n8n behaviour).
 
 ## Get it
-- **Ready-made template** (workflow + setup guide + sample CSV + test checklist): on my Contra profile, https://contra.com/yaxf4r8i/products
+- **Ready-made template, $29** (workflow + setup guide + sample CSV + test checklist): https://contra.com/products/h3HQhFgq-telegram-faq-bot-for-n8n-answers-only-from-your-qanda
 - **Want it set up or customized for you** (buttons, CRM hand-off, more languages, an AI fallback limited to your own content)? https://contra.com/s/OYEArB26-n8n-workflow-built-or-fixed-tested-before-hand-off
 
 ## Honest limits
