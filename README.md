@@ -2,7 +2,9 @@
 
 **Your Telegram bot answers customer questions instantly, only from your own Q&A list.** No made-up answers, no AI key needed.
 
-![how it works](https://img.shields.io/badge/n8n-1.x%20%7C%202.x-ea4b71) ![tested](https://img.shields.io/badge/live--tested-Telegram-229ED9)
+![n8n](https://img.shields.io/badge/n8n-1.x%20%7C%202.x-ea4b71) ![tested](https://img.shields.io/badge/live--tested-Telegram-229ED9)
+
+![Live demo: real replies from the test bot](demo-live-telegram-chat.png)
 
 ## What it does
 - **Matches by keywords**, so different wording still works: typos, plurals, case and punctuation are handled in **English, Hebrew and Arabic** (letter forms and niqqud normalized).
